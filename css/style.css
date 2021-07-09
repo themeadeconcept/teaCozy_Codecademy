@@ -49,7 +49,7 @@ li {
   flex-flow: column;
   justify-content: center;
   align-items: center;
-  background-image: url("/images/img-mission-background.webp");
+  background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -107,7 +107,7 @@ li {
   display: flex;
   flex-flow: column;
   text-align: center;
-  background-image: url(/images/img-locations-background.webp);
+  background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -139,8 +139,6 @@ li {
 }
 
 /* FOOTER */
-.container .footer {
-}
 .footer .the-tea-cozy {
   margin-top: 1rem;
   margin-bottom: 2.5rem;

@@ -1,7 +1,5 @@
 ## Tea Cozy | Organic Tea Site | Codecademy
 
----
-
 _This was a Codecademy Project that I completed that gave me some good Flexbox practice_
 
 ---
